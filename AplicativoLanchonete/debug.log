@@ -1,0 +1,11 @@
+[1013/175704.644:ERROR:settings.cc(430)] Settings version is not 5
+[1013/180704.650:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1013/235219.554:ERROR:process_reader_win.cc(127)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1013/235219.780:ERROR:exception_snapshot_win.cc(100)] thread ID 11456 not found in process
+[1013/235219.919:ERROR:process_reader_win.cc(127)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1013/235219.919:ERROR:exception_snapshot_win.cc(100)] thread ID 7036 not found in process
+[1013/235223.764:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\l\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\71d67630-bd9b-4dfa-856e-f9091bbd2f31: O sistema não pode encontrar o caminho especificado. (0x3)
+[1013/235223.983:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\l\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\95af1a04-acd2-46cb-bbe4-c97229461792: O sistema não pode encontrar o caminho especificado. (0x3)
+[1014/133212.919:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1014/185702.973:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1014/210158.065:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
